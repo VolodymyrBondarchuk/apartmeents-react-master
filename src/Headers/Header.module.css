@@ -1,0 +1,60 @@
+
+.inputs {
+    font-size: 14px;
+    width: 100%;
+    border: 1px solid #f5e9e9;
+    border-radius: 4px;
+    padding: 5px;
+    outline: none !important;
+    padding-left: 20px !important;
+    padding-top: 9px;
+    padding-bottom: 9px;
+ 
+}
+select {
+    cursor: pointer;   
+}
+
+
+
+.filterButton {
+    font-size: 14px;
+    width: 100%;
+    border: 1px solid #f5e9e9;
+    background: none !important;
+    border-radius: 4px;
+    padding: 5px;
+    outline: none !important; 
+    padding-top: 9px;
+    padding-bottom: 9px;
+    
+}
+
+.filterButton:hover {
+    background-color:#efefef !important;
+}
+
+::placeholder {  
+    color: black;
+    opacity: 1;  
+  }
+
+.menuInput {
+    font-size: 14px;
+    border: 1px solid #f5e9e9;
+    border-radius: 4px;
+    padding: 5px;
+    width: inherit;
+    outline: none !important;
+    padding-left: 20px !important;
+    padding-top: 9px;
+    padding-bottom: 9px;
+}
+
+@media (min-width: 992px)
+{
+    .menuInput {
+        width:50% !important;
+    }
+}
+

@@ -1,0 +1,46 @@
+.Form {
+    border: 1px solid #fdf3f3;
+    border-radius: 5px;
+    padding: 20px;
+    width: 408px;
+}
+
+.Login {
+    margin: auto;
+}
+
+.Phone {
+    display: block;
+    border: none;
+    border-bottom: 1px solid #fdf3f3;
+    padding: 21px;
+    outline: none;
+    width: 100%;
+}
+
+.Password {
+    display: block;
+    border: none;
+    padding: 21px;
+    outline: none;
+    width: 100%;
+}
+
+.Submit {
+    display: block;
+    outline: none;
+    border: 1px solid #fdf3f3;
+    border-radius: 5px;
+    padding: 21px;
+    background: none;
+    width: 100%;
+    margin-top: 45px;
+}
+
+.Submit:hover {
+    background-color: #fdf3f3;
+}
+
+.Wrong {
+    color: red; 
+}

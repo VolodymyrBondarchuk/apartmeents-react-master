@@ -1,0 +1,21 @@
+.default {
+    text-align: left;
+    width: 100px;
+    font-size: 14px; 
+    border: 1px solid #c5dbda;
+    background: none !important;
+    border-radius: 4px;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    outline: none !important;  
+}
+
+.fonta {
+    float: right;
+    padding-top: 3px;
+}
+
+.default:hover {
+    background-color:#efefef !important;
+}
